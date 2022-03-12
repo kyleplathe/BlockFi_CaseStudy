@@ -1,7 +1,18 @@
 # BlockFi CaseStudy
 
-BlockFi was founded in 2017 by Zac Prince and FGlori Marquez.
+BlockFi was founded in 2017 by Zac Prince and Flori Marquez.
+ 
+BlockFi is a centralized crypto lender, where assets are held with a custodian on the BlockFi platform. Bridging traditional finance and crypto-asset markets by providing savings, credit, and trading products to crypto holders. BlockFi was created to provide credit services to markets with limited access to simple financial products. They raised a total of $508.7M in funding over 16 rounds. Their latest funding was raised on Jan 3, 2022, from a Secondary Market round. [Cited: CrunchBase](https://www.crunchbase.com/organization/blockfi-inc)
+ 
+Thousands of people have made millions of dollars by buying and hodling bitcoin and other cryptocurrencies. But to actually spend the currency they need to sell their coins. That's a problem, because selling triggers capital gains taxes in the US, and because most crypto-wealthy people believe bitcoin will only keep going up in value over time, holding onto the coin is the best option. BlockFi solves this problem by offering USD loans back by bitcoin and or cryptocurrencies as collateral. BlockFi also provides interest accounts, cryptocurrency trading, and crypto rewards.
+ 
+BlockFi's target customer is underserved crypto investors. As of 2021, it's estimated that there are over 300 million crypto users worldwide. [Cited: TripleA](https://triple-a.io/crypto-ownership/)
+ 
+![Market Trend Graph](MarketTrendGraph.png)
+ 
+BlockFi has seen incredible growth over the past four years as crypto investing and financial services have moved to the mainstream. They recently launched a new credit card that allows clients to accumulate rewards in cryptocurrency. Improving the loan experience is their priority by making it easier to pay down loans and get up-to-date information on loan and payment status. They also want to prioritize
 
-BlockFi was created to provide credit services to markets with limited access to simple financial products. They raised a total of $508.7M in funding over 16 rounds. Their latest funding was raised on Jan 3, 2022 from a Secondary Market round.
 
-Thousands of people have made millions of dollars buying and hodling bitcoin and other cryptocurrencies. But to actucally  use that currency they need to sell the coins. That's a problem, because selling triggers capital gains taxes in the US, and beause most crypto-wealthy people believe bitcoin will only keep going up in value over time, holding on to the coin is the best option. BlockFi solves this problem by offering USD loans with bitcoin and or cryptocurrencies as collateral. BlockFi allows its users to 
+
+
+
