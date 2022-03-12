@@ -8,7 +8,7 @@ Thousands of people have made millions of dollars by buying and hodling bitcoin 
  
 BlockFi's target customer is underserved crypto investors. As of 2021, it's estimated that there are over 300 million crypto users worldwide. [Cited: TripleA](https://triple-a.io/crypto-ownership/)
  
-![Market Trend Graph](MarketTrendGraph.png)
+![Market Trend Graph](GlobalCryptoAdoption.png.webp)
  
 BlockFi has seen incredible growth over the past four years as crypto investing and financial services have moved to the mainstream. They recently launched a new credit card that allows clients to accumulate rewards in cryptocurrency. Improving the loan experience is their priority by making it easier to pay down loans and get up-to-date information on loan and payment status. They also want to prioritize
 
