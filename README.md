@@ -18,6 +18,8 @@ BlockFi has seen incredible growth over the past four years as crypto investing 
 
 Cryptocurrency-backed loans are becoming a competitive space. Companies like Nexo, Celsius, and Salt offer rates on their loans as low as 1%.
 As an example of the size of this market, Genesis, one of the largest OTC players, claims $150B in cumulative originations and a current loan book of $12.5B. [Cited: VanEck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-crypto-lending-and-the-search-for-yield/)
+
+
 ![Crypto Lending](digital-assets-blog_february_chart-1_2022.02_v1.png)
  
 Major trends in crypto lending are regulation, developing DeFi protocols for undercollateralized loans, and more involvement from traditional financial institutions and businesses. Several companies have been in discussion with regulators from the U.S. Security and Exchange (SEC). Most recently, the SEC is taking a closer look at Celsius, Gemini, and Voyager Digital. The SEC is deciding whether the lending companies need to register their assets as securities with the SEC.
