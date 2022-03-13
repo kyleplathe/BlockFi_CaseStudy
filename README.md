@@ -10,14 +10,14 @@ Thousands of people have made millions of dollars by buying and holding bitcoin 
  
 BlockFi's target customer is underserved crypto investors. As of 2021, it's estimated that there are over 300 million crypto users worldwide. [Cited: TripleA](https://triple-a.io/crypto-ownership/)
 ![Market Trend Graph](GlobalCryptoAdoption.png.webp)
-BlockFi applications and data uses JavaScript, React, HTML5, NGINX,PostgreSQL, TypeScript, Amazon EC2, CSS 3 and React Native. Their developer operations use GitHub, Git, Docket, and Ansible [Cited: Stackshare](https://stackshare.io/blockfi/blockfi)
+BlockFi applications and data uses JavaScript, React, HTML5, NGINX,PostgreSQL, TypeScript, Amazon EC2, CSS 3 and React Native. Their developer operations use GitHub, Git, Docket, and Ansible. [Cited: Stackshare](https://stackshare.io/blockfi/blockfi)
 
 
 BlockFi has seen incredible growth over the past four years as crypto investing and financial services have moved to the mainstream. They recently launched a new credit card that allows clients to accumulate rewards in cryptocurrency. Improving the loan experience is their priority by making it easier to pay down loans and get up-to-date loan and payment status information. They also want to prioritize expanding internationally. [Cited: Modern Treasury](https://www.moderntreasury.com/customers/blockfi)
 
 
 Cryptocurrency-backed loans are becoming a competitive space. Companies like Nexo, Celsius, and Salt offer rates on their loans as low as 1%.
-As an example of the size of this market, Genesis, one of the largest OTC players, claims $150B in cumulative originations and a current loan book of $12.5B. [Cided: VanEck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-crypto-lending-and-the-search-for-yield/)
+As an example of the size of this market, Genesis, one of the largest OTC players, claims $150B in cumulative originations and a current loan book of $12.5B. [Cited: VanEck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-crypto-lending-and-the-search-for-yield/)
 ![Crypto Lending](digital-assets-blog_february_chart-1_2022.02_v1.png)
  
 Major trends in crypto lending are regulation, developing DeFi protocols for undercollateralized loans, and more involvement from traditional financial institutions and businesses. Several companies have been in discussion with regulators from the U.S. Security and Exchange (SEC). Most recently, the SEC is taking a closer look at Celsius, Gemini, and Voyager Digital. The SEC is deciding whether the lending companies need to register their assets as securities with the SEC.
@@ -27,7 +27,7 @@ Another trend in crypto lending is making crypto-backed loans more accessible to
  
 The last major trend is that traditional institutions and institutional investors are more interested in crypto lending. There was an introduction to credit scores on crypto lending platform, at the beginning of 2022, when the TransUnion credit firm announced a partnership with data exchange security firm Spring Lab. To obtain a lower interest rate borrowers would be able to share their credit information with lenders.
  
-As the crypto lending industry keeps growing, government regulations and traditional finance will become more interesting. It will gain a wider appeal with crypto skeptics and older investors. By watching the trends in the crypto lending space, the younger and older investors can get a better picture of the market and its future and learn from it.[Cited: Decentral Puplishing](https://decentralpublishing.com/3-crypto-lending-trends-for-over-40-investors/)
+As the crypto lending industry keeps growing, government regulations and traditional finance will become more interesting. It will gain a wider appeal with crypto skeptics and older investors. By watching the trends in the crypto lending space, the younger and older investors can get a better picture of the market and its future and learn from it. [Cited: Decentral Puplishing](https://decentralpublishing.com/3-crypto-lending-trends-for-over-40-investors/)
 
 
 If I were to advise BlockFi to add new products I would ask that they offer reward debit cards.  This would be similar to their credit cards rewards without having to apply for credit. This would allow more users to gain crypto rewards. I would also recommend that they offer more loan options to people that don't have large amounts of capital available. This would make lending more inclusive and bring more capital for investors.
