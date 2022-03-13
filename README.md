@@ -2,13 +2,15 @@
 BlockFi was founded in 2017 by Zac Prince and Flori Marquez.
 
 
-Representing the blockchain and crypto domain. BlockFi is a centralized crypto lender, where assets are held with a custodian on the BlockFi platform—bridging traditional finance and crypto-asset markets by providing savings, credit, and trading products to crypto holders. BlockFi was created to provide credit services to markets with limited access to simple financial products. BlockFi is currently being valued at $3 billion. They raised a total of $508.7M in funding over 16 rounds. Their latest funding was raised on Jan 3, 2022, from a Secondary Market round. BlockFi is growing extremely fast too. It was on track to make $475 million in gross revenue in 2021. They make they money through interest fees, withdrawal fees, spreads, sponsorship fees, crypto mining, as well as premiums collected from investments into other trusts.
+Representing the blockchain and crypto domain. BlockFi is a centralized crypto lender, where assets are held with a custodian on the BlockFi platform—bridging traditional finance and crypto-asset markets by providing savings, credit, and trading products to crypto holders. BlockFi was created to provide credit services to markets with limited access to simple financial products. BlockFi is currently being valued at $3 billion. They raised a total of $508.7M in funding over 16 rounds. Their latest funding was raised on Jan 3, 2022, from a Secondary Market round. BlockFi is growing extremely fast too. It was on track to make $475 million in gross revenue in 2021. They make their money through interest fees, withdrawal fees, spreads, sponsorship fees, crypto mining, as well as premiums collected from investments into other trusts.
 [Cited: CrunchBase](https://www.crunchbase.com/organization/blockfi-inc)
  
 Thousands of people have made millions of dollars by buying and holding bitcoin and other cryptocurrencies. But to spend the currency they need to sell their coins. That's a problem, because selling triggers capital gains taxes in the US, and because most crypto-wealthy people believe bitcoin will only keep going up in value over time, holding onto the coin is the best option. BlockFi solves this problem by offering USD loans backed by bitcoin and other cryptocurrencies as collateral. BlockFi also provides interest accounts, cryptocurrency trading, and crypto rewards.
+
+
 BlockFi's target customer is underserved crypto investors. As of 2021, it's estimated that there are over 300 million crypto users worldwide. [Cited: TripleA](https://triple-a.io/crypto-ownership/)
 ![Market Trend Graph](GlobalCryptoAdoption.png.webp)
-BlockFi applications and data uses JavaScript, React, HTML5, NGINX,PostgreSQL, TypeScript, Amazon EC2, CSS 3 and React Native. Their developer operations use GitHub, Git, Docket, and Ansible. [Cited: Stackshare](https://stackshare.io/blockfi/blockfi)
+BlockFi applications and data uses JavaScript, React, HTML5, NGINX, PostgreSQL, TypeScript, Amazon EC2, CSS 3 and React Native. Their developer operations use GitHub, Git, Docket, and Ansible. [Cited: Stackshare](https://stackshare.io/blockfi/blockfi)
  
  
 Cryptocurrency-backed loans are becoming a competitive space. Companies like Nexo, Celsius, and Salt offer rates on their loans as low as 1%.
