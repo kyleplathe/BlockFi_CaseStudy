@@ -1,6 +1,8 @@
 # BlockFi CaseStudy
  
 BlockFi was founded in 2017 by Zac Prince and Flori Marquez.
+
+
 BlockFi is a centralized crypto lender, where assets are held with a custodian on the BlockFi platform—bridging traditional finance and crypto-asset markets by providing savings, credit, and trading products to crypto holders. BlockFi was created to provide credit services to markets with limited access to simple financial products. They raised a total of $508.7M in funding over 16 rounds. Their latest funding was raised on Jan 3, 2022, from a Secondary Market round. [Cited: CrunchBase](https://www.crunchbase.com/organization/blockfi-inc)
 
 
