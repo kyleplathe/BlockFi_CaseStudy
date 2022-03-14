@@ -18,6 +18,8 @@ As an example of the size of this market, Genesis, one of the largest Over-the-C
  
  
 ![Crypto Lending](digital-assets-blog_february_chart-1_2022.02_v1.png)
+
+
 Major trends in crypto lending are regulation, developing DeFi protocols for undercollateralized loans, and more involvement from traditional financial institutions and businesses. Several companies have been in discussion with regulators from the U.S. Security and Exchange (SEC). Most recently, the SEC is taking a closer look at Celsius, Gemini, and Voyager Digital. The SEC is deciding whether the lending companies need to register their assets as securities with the SEC.
 BlockFi is a major player in the crypto-loan space. They recently had to pay a penalty of $100 Million to the SEC and file registration of its crypto lending products. They "also agree to attempt to bring its business into compliance with the Investment Company Act of 1940 within 60 days." [Cited: SEC.gov](https://www.sec.gov/news/press-release/2022-26)
 
