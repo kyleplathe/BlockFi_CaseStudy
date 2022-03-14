@@ -1,4 +1,4 @@
-# BlockFi CaseStudy
+# BlockFi Case Study
 BlockFi was founded in 2017 by Zac Prince and Flori Marquez.
 
 
